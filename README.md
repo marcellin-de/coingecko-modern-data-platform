@@ -1,7 +1,8 @@
 # Coingecko data platform
 
-An end-to-end modern data platform implementing asset-oriented orchestration,
-incremental ingestion, AI enrichment, and observability-first analytics.
+An enterprise-grade end-to-end data platform ingesting cryptocurrency market data from CoinGecko, storing it in ClickHouse, transforming it with dbt, validating it with Great Expectations, enriching it using Hugging Face models, and orchestrating everything through Dagster asset-based pipelines.
+
+The platform follows Modern Data Engineering best practices (2026): asset orchestration, incremental ingestion, declarative pipelines, observability-first architecture, CI/CD-native workflows, and reproducible Docker environments powered by uv.
 
 ---
 Stack:
