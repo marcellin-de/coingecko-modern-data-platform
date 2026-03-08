@@ -1,4 +1,4 @@
-# coingecko-data-platform
+# Coingecko data platform
 
 An end-to-end modern data platform implementing asset-oriented orchestration,
 incremental ingestion, AI enrichment, and observability-first analytics.
